@@ -5,7 +5,8 @@
             "includePath": [
                 "e:\\STM32_projects\\STM32-Learning\\02_Keil_Projects\\02_led_flow_register\\Start",
                 "e:\\STM32_projects\\STM32-Learning\\02_Keil_Projects\\02_led_flow_register\\User",
-                "D:\\keil\\keil_v5\\ARM\\ARMCC\\include"
+                "D:\\keil\\keil_v5\\ARM\\ARMCC\\include",
+                "D:\\keil\\keil_v5\\ARM\\ARMCC\\include\\rw"
             ],
             "defines": [
                 "__CC_ARM",
